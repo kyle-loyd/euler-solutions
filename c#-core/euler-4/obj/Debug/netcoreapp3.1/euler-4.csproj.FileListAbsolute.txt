@@ -1,0 +1,13 @@
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.csprojAssemblyReference.cache
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.AssemblyInfoInputs.cache
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.AssemblyInfo.cs
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.csproj.CoreCompileInputs.cache
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/bin/Debug/netcoreapp3.1/euler-4
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/bin/Debug/netcoreapp3.1/euler-4.deps.json
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/bin/Debug/netcoreapp3.1/euler-4.runtimeconfig.json
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/bin/Debug/netcoreapp3.1/euler-4.runtimeconfig.dev.json
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/bin/Debug/netcoreapp3.1/euler-4.dll
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/bin/Debug/netcoreapp3.1/euler-4.pdb
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.dll
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.pdb
+/home/emeto/Dev/source-controlled/euler-solutions/c#-core/euler-4/obj/Debug/netcoreapp3.1/euler-4.genruntimeconfig.cache
